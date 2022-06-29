@@ -366,6 +366,6 @@ int main()
 	evolve(population1);
 	time(&end);
 	double difference = double(end - start);
-	cout << "Evolution finished in " << diference << " seconds." << endl;
+	cout << "Evolution finished in " << difference << " seconds." << endl;
 	return 0;
 }
