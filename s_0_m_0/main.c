@@ -2,6 +2,7 @@
 #include <math.h>
 using namespace std;
 City map[CITIES];
+// Serial Implementation
 
 //==============================================================================
 // PROTOTYPES

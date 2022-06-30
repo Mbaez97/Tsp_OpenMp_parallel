@@ -5,6 +5,7 @@ City map[CITIES];
 
 //==============================================================================
 // PROTOTYPES
+// Serial Implementation
 
 bool inList(Individual a, int city);
 Individual crossoverPm(Individual a, Individual b);
